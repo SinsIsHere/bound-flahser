@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Projects/Vivado/Bound_Flasher/Bound_Flasher.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Bound_Flasher
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Projects/Vivado/Bound_Flasher/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
